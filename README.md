@@ -1,6 +1,7 @@
 # Ddos-Attack
-Termux için Türkçe basit ddos attack yazılımı.(Beta)
+Termux için Türkçe basit ddos attack yazılımı.(Beta aşamasında)
 
+• Ddos attack bir sunucya birden fazla veri göndererek sunucuyu etkisiz hale getirir.
 # KURULUM
 1. $ pkg install git
 2. $ pkg install python3 (python2)
