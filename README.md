@@ -9,4 +9,4 @@ Termux için Türkçe basit ddos attack yazılımı.(Beta aşamasında)
 4. $ cd Ddos-Attack
 5. $ python3 ddos.py
 
- Kalan herşey Türkçe.Yapamazsanız İnstagram: @weklendy
+ Kalan herşey Türkçe.Yapamazsanız İnstagram: @homaxluman
